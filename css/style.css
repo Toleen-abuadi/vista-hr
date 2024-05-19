@@ -29,6 +29,7 @@ h1 {
     line-height: 1;
     color: #333;
     font-family: 'Courgette', cursive;
+    margin-top: 20px;
 }
 
 .sticky-header {
@@ -187,3 +188,5 @@ p {
 }
 
 
+
+/*home page*/
